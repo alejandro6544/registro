@@ -1,0 +1,12 @@
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\bin\Release\registro.exe.config
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\bin\Release\registro.exe
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\bin\Release\registro.pdb
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\bin\Release\MySql.Data.dll
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\bin\Release\MySql.Data.xml
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.Form1.resources
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.Properties.Resources.resources
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.csproj.GenerateResource.Cache
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.exe
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.pdb
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.csprojResolveAssemblyReference.cache
+C:\Users\Alejo\documents\visual studio 2015\Projects\registro\registro\obj\Release\registro.Categorias.resources
